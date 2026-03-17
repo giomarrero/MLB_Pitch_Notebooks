@@ -7,4 +7,4 @@ This repository contains notebooks that utilize MLB pitch data for a variety of 
 
 **Scaling_Strikezone** - Generating a scaled strike zone. Provides a new strikezone, which scales pitch locations based on the batter's strike zone. Helpful in visualizations as opposed to assigning a generic strike zone that may misrepresent pitch location. 
 
-**Arm_Angle** **IN PROGRESS** - Creating a foundational tool that examines the arm angles and events for specific batters. Using in a larger project, not made to be pretty. 
+**Arm_Angle** ***IN PROGRESS*** - Creating a foundational tool that examines the arm angles and events for specific batters. Using in a larger project, not made to be pretty. 
