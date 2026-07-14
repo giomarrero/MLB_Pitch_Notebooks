@@ -5,7 +5,7 @@ This repository contains notebooks that utilize MLB pitch data for a variety of 
 
 **Pitching_Defining_Strikezone** - A breakdown of MLB provided data, exploring why there are discrepancies in values for strikes and balls. 
 
-**Scaling_Strikezone** - Generating a scaled strike zone. Provides a new strikezone, which scales pitch locations based on the batter's strike zone. Helpful in visualizations as opposed to assigning a generic strike zone that may misrepresent pitch location. "Imagine if all batter's have the same strike zone"
+**Scaling_Strikezone** - Generating a scaled strike zone. Provides a new strikezone, which scales pitch locations based on the batter's strike zone. Helpful in visualizations as opposed to assigning a generic strike zone that may misrepresent pitch location. "Imagine if all batter's have the same strike zone". A pitch in the top-left corner to Aaron Judge & Jose Altuve would look the same in this standard zone, a better way to track pitcher control against various stirke zone sizes. 
 
 **Pitch_Release_Point** - Aiming to determe if release point consistancy is related to pitcher success. Exploring general variance (Yu Darvish) & single-pitch variance (Kershaw 12-6). If so, is there a tradeoff between Stuff+ & other key metrics that make a deviant pitch worth the potential tipping. 
 
